@@ -1,0 +1,12 @@
+build:
+  version: 1.0
+
+
+loans:
+  message: Welcome to AvaBanks Loans MS APIS - Dev
+  contactDetails:
+    name: "Avalon"
+    email: "avalon@mail.com"
+  onCallSupport:
+    - (333) 555 902-3124
+    - (333) 555 902-3566
