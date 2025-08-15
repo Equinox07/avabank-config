@@ -3,7 +3,7 @@ build:
 
 
 cards:
-  message: Welcome to AvaBanks Cards MS APIS - Production: WebHooks
+  message: Welcome to AvaBanks Cards MService APIS - Production: WebHooks
   contactDetails:
     name: "Avalon"
     email: "avalon@mail.com"
