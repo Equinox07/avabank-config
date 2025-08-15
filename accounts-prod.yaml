@@ -5,7 +5,7 @@ build:
 
 
 accounts:
-  message: Welcome to AvaBanks Accounts MS APIS - Production
+  message: Welcome to AvaBanks Accounts MS APIS - Prod WebHook
   contactDetails:
     name: "Avalon"
     email: "avalon@mail.com"
