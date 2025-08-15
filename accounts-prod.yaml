@@ -5,7 +5,7 @@ build:
 
 
 accounts:
-  message: Welcome to AvaBanks Accounts MS APIS - Prod
+  message: Welcome to AvaBanks Accounts MS APIS - Production
   contactDetails:
     name: "Avalon"
     email: "avalon@mail.com"
