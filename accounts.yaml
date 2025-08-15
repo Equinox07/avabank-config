@@ -3,7 +3,7 @@ build:
 
 
 accounts:
-  message: Welcome to AvaBanks Accounts MS APIS Default WebHook
+  message: Welcome to AvaBanks Accounts MS APIS Default WebHook upd
   contactDetails:
     name: "Avalon"
     email: "avalon@mail.com"
