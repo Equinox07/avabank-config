@@ -3,7 +3,7 @@ build:
 
 
 cards:
-  message: Welcome to AvaBanks Cards MS APIS - Default
+  message: Welcome to AvaBanks Cards MS APIS - Default WHook
   contactDetails:
     name: "Avalon"
     email: "avalon@mail.com"
